@@ -3,10 +3,10 @@ Predicting resale prices of Skoda used cars through data analysis and machine le
 
 ### Project Overview
 
-This project focuses on **data visualization, data analysis, and machine learning** applied to a **Škoda used car dataset**.
+This project focuses on **data visualization, data analysis, and machine learning** applied to a **Skoda used car dataset**.
 
 **Objective:**  
-Build a machine learning model to **predict the resale price of Škoda used cars** with minimal error and evaluate its performance using key performance indicators (KPIs).
+Build a machine learning model to **predict the resale price of Skoda used cars** with minimal error and evaluate its performance using key performance indicators (KPIs).
 
 ---
 
